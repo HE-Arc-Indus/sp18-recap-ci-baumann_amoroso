@@ -1,4 +1,4 @@
-# Projet Récapitulation Dcoker et Jenkins
+# Projet Récapitulation Docker et Jenkins
 
 commande pour builder l'image:
 
