@@ -1,7 +1,7 @@
 # Projet Récapitulation Docker et Jenkins
 Sébastien Baumann | Francesco Amoroso
 
-### commande pour builder l'image:
+### Commande pour builder l'image:
 
  ```bash 
  docker build -t myjenkins .\docker
@@ -14,8 +14,13 @@ Sébastien Baumann | Francesco Amoroso
 
  ### Pour se rendre dans le pipeline jenkins entrer l'url suivant dans le naviagateur
  
+ #### Docker
  ```bash 
   localhost:8080
  ```
+ #### Docker Toolbox
  
+ ```bash 
+ http://192.168.99.100:8080
+ ```
  
